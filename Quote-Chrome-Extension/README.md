@@ -1,0 +1,1 @@
+A chrome extension that shows random motivational quotes as notification on windows.
